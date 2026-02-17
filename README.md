@@ -66,6 +66,7 @@ Web Development
 
 <details>
 <summary><strong>Phase 4: Advanced Concepts</strong></summary>
+
 1.  **System Design Basics** → **Scalability Concepts**
 2.  **Project Development** → **Deployment** → **Interview Preparation**
 </details>
@@ -175,15 +176,15 @@ Web Development
 
 <details>
 <summary>🏆 <strong>Learning Checklist</strong></summary>
-- [ ] Complete HTML fundamentals and advanced concepts
-- [ ] Master CSS layouts and responsive design
-- [ ] Implement JavaScript projects and DOM manipulation
-- [ ] Build Node.js applications and understand server concepts
-- [ ] Develop Express.js web applications with routing
-- [ ] Design and query databases with SQL
-- [ ] Learn system design fundamentals
-- [ ] Create full-stack applications with optimized algorithms
-- [ ] Deploy applications and understand DevOps basics
+- [ ] Complete HTML fundamentals and advanced concepts<br>
+- [ ] Master CSS layouts and responsive design<br>
+- [ ] Implement JavaScript projects and DOM manipulation<br>
+- [ ] Build Node.js applications and understand server concepts<br>
+- [ ] Develop Express.js web applications with routing<br>
+- [ ] Design and query databases with SQL<br>
+- [ ] Learn system design fundamentals<br>
+- [ ] Create full-stack applications with optimized algorithms<br>
+- [ ] Deploy applications and understand DevOps basics<br>
 </details>
 
 ---
