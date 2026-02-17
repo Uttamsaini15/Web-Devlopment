@@ -65,7 +65,7 @@ Web Development
 </details>
 
 <details>
-<summary><strong>Phase 4: Advanced Concepts & Placement Prep (Weeks 13-16)</strong></summary>
+<summary><strong>Phase 4: Advanced Concepts</strong></summary>
 1.  **System Design Basics** → **Scalability Concepts**
 2.  **Project Development** → **Deployment** → **Interview Preparation**
 </details>
@@ -105,7 +105,7 @@ Web Development
 4.  **Database Setup**:
     - Install MySQL and MongoDB
     - Run SQL scripts from the SQL directory
-    - See `Web-devlopment/MongoDB/mongodb-basics.js` for basic MongoDB commands.
+    - See `Web-Development/MongoDB/mongodb-basics.js` for basic MongoDB commands.
 
 ---       
 <details>
@@ -114,21 +114,21 @@ Web Development
 ### 🌐 Frontend Development
 
 #### HTML Module
-- **Location**: `Web-development/Front-End/html/`
+- **Location**: `Web-Development/Front-End/html/`
 - **Topics**: Document structure, semantic elements, forms, accessibility
 
 #### CSS Module
-- **Location**: `Web-development/Front-End/css/`
+- **Location**: `Web-Development/Front-End/css/`
 - **Topics**: Styling, layouts, animations, responsive design
 
 #### JavaScript Module
-- **Location**: `Web-development/Front-End/js/`
+- **Location**: `Web-Development/Front-End/js/`
 - **Topics**: Programming fundamentals, DOM manipulation, async programming
 
 ### ⚙️ Backend Development
 
 #### Node.js Module
-- **Location**: `Web-development/Back-End/NodeJS/`
+- **Location**: `Web-Development/Back-End/NodeJS/`
 - **Topics**: Server-side JavaScript, file system, modules
 - **Key Files**:
     - `script.js`: Main Node.js script.
@@ -136,13 +136,13 @@ Web Development
     - `Maths/`: Another example of a module.
 
 #### Express.js Module
-- **Location**: `Web-development/Back-End/ExpressJS/`
+- **Location**: `Web-Development/Back-End/ExpressJS/`
 - **Topics**: Web framework, routing, middleware
 - **Key Files**:
     - `index.js`: Main Express.js server file.
 
 #### EJS Module
-- **Location**: `Web-development/Back-End/EJS/`
+- **Location**: `Web-Development/Back-End/EJS/`
 - **Topics**: EJS templating engine
 - **Key Files**:
     - `index.js`: Server file for the EJS project.
@@ -150,7 +150,7 @@ Web Development
         - `home.ejs`, `instagram.ejs`, `rolldice.ejs`: Example EJS templates.
 
 #### REST Module
-- **Location**: `Web-development/Back-End/REST/`
+- **Location**: `Web-Development/Back-End/REST/`
 - **Topics**: RESTful API development
 - **Key Files**:
     - `index.js`: Main server file for the REST API.
@@ -159,14 +159,14 @@ Web Development
 ### 🗄️ Database
 
 #### SQL
-- **Location**: `Web-development/SQL/`
+- **Location**: `Web-Development/SQL/`
 - **Topics**: Database design, SQL queries, relationships
 - **Key Files**:
     - `prac1.sql`: Practice SQL queries.
     - `sql_commands_practice.sql`: More practice SQL queries.
 
 #### MongoDB
-- **Location**: `Web-development/MongoDB/`
+- **Location**: `Web-Development/MongoDB/`
 - **Topics**: NoSQL database concepts
 - **Key Files**:
     - `mongodb-basics.js`: Basic MongoDB commands.
