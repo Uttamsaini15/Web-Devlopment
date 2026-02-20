@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice question</title>
+</head>
+<body>
+    <form action="https://www.google.com/search?">
+        <input type="text" placeholder="search on google" id="search" name="q"?>
+        <button type="submit">search</button>
+    </form><br><hr>
+    
+    <h1>Registration from</h1>
+    <form action="/server">
+        <div>
+          <input type="text" placeholder="First name"  name="First name">
+          <input type="text" placeholder="Last name"  name="last name"><br>
+        </div>
+        <div>  
+          <label for="gender">Please select gender</label>
+          <select name="gender" id="gender">
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="'Other">Other</option> 
+          </select>
+        </div> 
+        <div> 
+          Do you agree to all terms and servies?
+            <input type="checkbox" name="terms and services" id="t&s"/>
+            <label for="t&s">Yes,I agree</label><br>
+          <button type="submit">register</button>
+        </div>
+
+    </form>
+</body>
+</html>
